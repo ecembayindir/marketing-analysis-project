@@ -17,7 +17,7 @@ This project addresses a real-world business problem for <strong>ShopEasy</stron
 </ul>
 
 <div align="center">
-    <img src="https://imgur.com/34a8e99c-d3a7-4850-bd18-85ccea66dcd7" alt="Marketing Analytics Project Dashboard" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/oW5i4in.png" alt="Marketing Analytics Project Dashboard" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 </div>
 
 <h2>📊 <strong>Key Insights</strong></h2>
@@ -52,13 +52,15 @@ This project addresses a real-world business problem for <strong>ShopEasy</stron
 <h2>📊 <strong>Key Visuals & Insights</strong></h2>
 <p>Below are screenshots from the Power BI dashboard showcasing the insights derived from the project.</p>
 <div align="center">
-    <img src="https://i.imgur.com/DSz53mh.png" alt="Dashboard Visual 1" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
-    <img src="https://i.imgur.com/I5Wecwt.png" alt="Dashboard Visual 2" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/7Qmh0v3.png" alt="Dashboard Visual 1" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/UEvNeQn.png" alt="Dashboard Visual 2" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/YvTVgX7.png" alt="Dashboard Visual 3" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/FypZkpn.png" alt="Dashboard Visual 4" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 </div>
 
 <h2>💻 <strong>How to Use This Repository</strong></h2>
 <ol>
-  <li><strong>Clone the Repository</strong>: <code>git clone https://github.com/yourusername/ShopEasy-Marketing-Analytics.git</code></li>
+  <li><strong>Clone the Repository</strong>: <code>git clone https://github.com/ecembayindir/marketing-analysis-project</code></li>
   <li><strong>Database Setup</strong>: Ensure the data is loaded and set up for SQL queries.</li>
   <li><strong>Run Scripts</strong>: Use SQL scripts for data preparation and Python for sentiment analysis.</li>
   <li><strong>Explore Dashboard</strong>: Open the Power BI file to interact with the dashboard and visualizations.</li>

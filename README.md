@@ -52,7 +52,7 @@ This project addresses a real-world business problem for <strong>ShopEasy</stron
 <h2>📊 <strong>Key Visuals & Insights</strong></h2>
 <p>Below are screenshots from the Power BI dashboard showcasing the insights derived from the project.</p>
 <div align="center">
-    <img src="https://i.imgur.com/7Qmh0v3.png" alt="Dashboard Visual 1" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="https://i.imgur.com/ULpwO8Y.png" alt="Dashboard Visual 1" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
     <img src="https://i.imgur.com/UEvNeQn.png" alt="Dashboard Visual 2" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
     <img src="https://i.imgur.com/YvTVgX7.png" alt="Dashboard Visual 3" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
     <img src="https://i.imgur.com/FypZkpn.png" alt="Dashboard Visual 4" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">

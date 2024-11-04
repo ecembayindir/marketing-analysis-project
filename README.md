@@ -17,7 +17,7 @@ This project addresses a real-world business problem for <strong>ShopEasy</stron
 </ul>
 
 <div align="center">
-    <img src="https://i.imgur.com/0ejX40T.jpeg" alt="Marketing Analytics Project Dashboard" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
+    <img src="blob:https://imgur.com/34a8e99c-d3a7-4850-bd18-85ccea66dcd7" alt="Marketing Analytics Project Dashboard" style="display: block; margin: 0 auto; max-width: 80%; height: auto;">
 </div>
 
 <h2>📊 <strong>Key Insights</strong></h2>

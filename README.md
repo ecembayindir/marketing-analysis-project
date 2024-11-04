@@ -60,7 +60,7 @@ This project addresses a real-world business problem for <strong>ShopEasy</stron
 
 <h2>💻 <strong>How to Use This Repository</strong></h2>
 <ol>
-  <li><strong>Clone the Repository</strong>: <code>git clone https://github.com/ecembayindir/marketing-analysis-project</code></li>
+  <li><strong>Clone the Repository</strong>: <code>git clone https://github.com/ecembayindir/marketing-analytics-project</code></li>
   <li><strong>Database Setup</strong>: Ensure the data is loaded and set up for SQL queries.</li>
   <li><strong>Run Scripts</strong>: Use SQL scripts for data preparation and Python for sentiment analysis.</li>
   <li><strong>Explore Dashboard</strong>: Open the Power BI file to interact with the dashboard and visualizations.</li>

@@ -1,4 +1,4 @@
-<h1 align="center">ShopEasy Marketing Analytics Project</h1>
+<h1 align="center">Marketing Analytics Project</h1>
 
 <br/>
 
